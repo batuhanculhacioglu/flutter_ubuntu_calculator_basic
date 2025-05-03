@@ -1,16 +1,23 @@
-# calculator
+# Flutter Ubuntu Calculator (Basic)
 
-A new Flutter project.
+Bu proje, Ubuntu işletim sisteminde yer alan klasik **Calculator (Basic)** uygulamasını Flutter kullanarak yeniden oluşturmayı amaçlamaktadır.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Flutter ile masaüstü (desktop) desteği
+- Temel matematiksel işlemler (toplama, çıkarma, çarpma, bölme)
+- Gerçek zamanlı hesaplama
+- Kullanımı kolay ve sade arayüz
+- Bilimsel gösterim (e.g. 1.23e+5) desteği
 
-A few resources to get you started if this is your first Flutter project:
+## Ekran Görüntüsü
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Uygulama Görseli](ss/flutter_ubuntu_calculator_basic_2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kurulum
+
+```bash
+git clone https://github.com/batuhanculhacioglu/flutter_ubuntu_calculator_basic.git
+cd flutter_ubuntu_calculator_basic
+flutter pub get
+flutter run -d linux
