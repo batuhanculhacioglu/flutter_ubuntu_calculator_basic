@@ -2,14 +2,6 @@
 
 Bu proje, Ubuntu işletim sisteminde yer alan klasik **Calculator (Basic)** uygulamasını Flutter kullanarak yeniden oluşturmayı amaçlamaktadır.
 
-## Özellikler
-
-- Flutter ile masaüstü (desktop) desteği
-- Temel matematiksel işlemler (toplama, çıkarma, çarpma, bölme)
-- Gerçek zamanlı hesaplama
-- Kullanımı kolay ve sade arayüz
-- Bilimsel gösterim (e.g. 1.23e+5) desteği
-
 ## Ekran Görüntüsü
 
 ![Uygulama Görseli](ss/flutter_ubuntu_calculator_basic_2.png)
